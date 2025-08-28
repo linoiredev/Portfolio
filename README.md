@@ -8,5 +8,12 @@ I have a strong interest in data science, data analysis, and financial technolog
 
 I consider myself a life-long learner and enjoy expanding my knowledge in my free time.
 
-> A jack of all trades is a master of none, but oftentimes better than a master of one. 
+> A jack of all trades is a master of none, but oftentimes better than a master of one.
+
+## Classes at SNHU
+Here’s a list of classes whose projects are included in this portfolio. The folder names correspond to the class names.
+- **CS-250 Software Development Lifecycle:** Students will explore the stages of the Software Development Lifecycle (SDLC) through the lens of developers and testers to examine the characteristics, documentation, and purpose of each stage. Through applying SDLC stages within an agile development environment, students will learn the principles and best practices used to develop high quality software while also assessing the impact of communication, documentation, and ethics on the SDLC.
+- **CS-210 Programming Languages:** Students will develop functional programs (in C++) that comply with industry regulations and best practices using various programming languages. Special attention will be paid to the importance of developing code that is not only functional, but also secure, efficient, and professional.
+
+
 
